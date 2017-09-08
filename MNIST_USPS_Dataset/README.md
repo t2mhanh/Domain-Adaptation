@@ -9,6 +9,7 @@ Jupyter notebook usps_mnist_data_preparation.ipynb demnonstrates an example for 
 Function
 
 usps_mnist.dataset(normalisation=False, store=False,m=.1,n=.1)
+
 Parameters
 
 Normalisation: True, False (If True, then the data will be normalised to the range [0,1])
