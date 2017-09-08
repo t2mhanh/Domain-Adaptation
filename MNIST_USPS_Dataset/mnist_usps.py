@@ -23,7 +23,6 @@ def dataset(normalisation=False,store=False,m=.1,n=.1):
         mnist_x_new[i,:,:]=misc.imresize(mnist_x[i],[16,16])
         
     mnist_x_new = mnist_x_new.astype('float32')
-    mnnist_y= mnist.target
 
     #Tag: USPS
     usps = fetch_mldata("USPS")
