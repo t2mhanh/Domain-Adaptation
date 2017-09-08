@@ -1,4 +1,4 @@
-MNIST and USPS dataset as Numpy image array and Png files
+MNIST and USPS dataset as Numpy image array and PNG files
 ---------------------------------------------------------
 
 Python file usps_mnist.py contains the definition for the function dataset() that could be used for creating an image numpy array for MNIST and USPS datasets.
