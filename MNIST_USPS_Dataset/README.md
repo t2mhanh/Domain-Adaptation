@@ -2,7 +2,7 @@
 
 Python file *__usps_mnist.py__* contains the definition for the function dataset() that could be used for creating an image numpy array for MNIST and USPS datasets.
 Also it could be used for storing the images as .png files.<br />
-Jupyter notebook *__usps_mnist_data_preparation.ipynb__* demnonstrates an example for using the above function.<br /> 
+Jupyter notebook *__usps_mnist_data_preparation.ipynb__* demnonstrates an example for using the above function and also for converting labels into onehot encoding format.<br /> 
 
 *__Function__*<br />
 usps_mnist.dataset(normalisation=False, store=False,m=.1,n=.1)<br />
