@@ -1,4 +1,4 @@
-# Description: Function for Preparing datasets MNIST and USPS as numpy image array and storing as .png files if needed
+# Description: Function for Preparing datasets MNIST and USPS as numpy image arrays and storing as .png files if needed
 # Author : Leo Pauly | cnlp@leeds.ac.uk
 
 from numpy.random import seed
